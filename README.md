@@ -129,9 +129,8 @@ Easily plug into Chrome or Firefox:
 
 ## 👨‍💻 Author
 
-**Himanshu Cha**  
-🚀 AI Researcher | 🛡️ CyberSec Dev | 🎯 Precision Debugger  
-[GitHub](https://github.com/yourusername) • [LinkedIn](https://linkedin.com/in/yourprofile)
+**Himanshu Sayankar** , **Rugwed Yawalkar** , **Arya Dashputra**
+
 
 ---
 
